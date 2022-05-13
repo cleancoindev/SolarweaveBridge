@@ -24,7 +24,7 @@
     "colors": "^1.4.0",
     "commander": "^6.0.0",
     "fs-jetpack": "^3.1.0",
-    "superagent": "^6.0.0"
+    "superagent": "^6.1.0"
   },
   "devDependencies": {
     "@types/commander": "^2.12.2",
