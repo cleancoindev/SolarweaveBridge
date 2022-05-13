@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "arweave": "^1.10.1",
-    "arweave-bundles": "^1.0.0",
+    "arweave-bundles": "^1.0.3",
     "colors": "^1.4.0",
     "commander": "^6.0.0",
     "fs-jetpack": "^3.1.0",
